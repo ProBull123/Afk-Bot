@@ -1,0 +1,5 @@
+{
+	"ip":"CYRUS_GAMER007.aternos.me",
+	"port": "18834",
+	"name": "Immortal"
+}
